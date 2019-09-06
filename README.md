@@ -1,2 +1,2 @@
 # ordinaryux
-The mine
+if than else
